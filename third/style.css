@@ -1,0 +1,58 @@
+/*html, body {
+  height: 100%;
+  width: 100%;
+}*/
+
+body {
+  background: rgb(213, 213, 213);
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  border: 2px solid;
+  padding: 1px;
+  background: #fff;
+}
+
+.header-row {
+  height: 75px;
+  width: 100%;
+  background: rgb(207, 207, 207);
+  float: left;
+}
+
+.blue-box {
+  height: 50px;
+  width: 50px;
+  background: rgb(73, 127, 213);
+  margin-top: 10px;
+  margin-left: 10px;
+/*  float: left;*/
+}
+
+.text-box {
+  padding: 10px 30px;
+  clear: both;
+  background: #fff;
+}
+
+.color-bar-one {
+  background: rgb(73, 127, 213);
+  height: 80px;
+}
+
+.color-bar-two {
+  background: rgb(109, 215, 181);
+  height: 80px;
+}
+
+.color-bar-three {
+  background: rgb(183, 223, 123);
+  height: 80px;
+}
+
+.color-bar-four {
+  background: rgb(243, 222, 59);
+  height: 80px;
+}
+
