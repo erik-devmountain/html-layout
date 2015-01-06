@@ -1,0 +1,49 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.first-bar {
+  background: rgb(73, 127, 213);
+  width: 33%;
+  height: 100%;
+  float: left;
+}
+
+.second-bar {
+  background: rgb(109, 215, 181);
+  width: 33%;
+  height: 100%;
+  float: left;
+}
+
+.third-section {
+  width: 33%;
+  height: 100%;
+  float: left;
+}
+
+.third-bar {
+  background: rgb(183, 223, 123);
+  width: 100%;
+  height: 80%;
+  float: left;
+}
+
+.image-placeholder {
+  background: rgb(175, 33, 34);
+  width: 100%;
+  height: 20%;
+  float: left;
+  text-align: center;
+  color: #fff;
+  display: table;
+}
+
+.ph-txt {
+  height: 100%;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+
+

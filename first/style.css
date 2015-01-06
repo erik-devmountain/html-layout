@@ -1,0 +1,55 @@
+html, body {
+  height: 800px;
+}
+
+body {
+  background: rgb(207, 207, 207);
+}
+
+.master {
+  height: 100%;
+  width: 100%;
+}
+
+.top {
+  background: rgb(52, 52, 52);
+  height: 15%;
+  clear: both;
+}
+
+.center-col {
+  height: 100%;
+  float: left;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.left-col {
+  background: rgb(207, 207, 207);
+  width: 20%;
+  height: 100%;
+  float: left;
+}
+
+.main {
+  width: 60%;
+  height: 100%;
+  background: #fff;
+  float: left;
+  
+}
+
+.right-col {
+  background: rgb(207, 207, 207);
+  width: 20%;
+  height: 100%;
+  float: left;
+}
+
+.bottom-bar {
+  background: rgb(26, 26, 26);
+  margin: 0 auto;
+  clear: both;
+  width: 60%;
+  height: 10%;
+}
