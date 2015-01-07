@@ -1,0 +1,35 @@
+html, body, .page, .main{
+  height: 100%;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+header.masthead {
+  height: 100px;
+  background: #eee;
+  display: flex;
+  clear: both;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline;
+  padding: 20px;
+}
+
+.sidebar-left {
+  width: 20%;
+  height: 100%;
+  float: left;
+  background: rgb(63, 127, 191);
+}
+
+.content {
+  width: 80%;
+  float: left;
+  padding: 30px;
+  box-sizing:border-box;
+}
+
